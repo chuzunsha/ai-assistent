@@ -6,7 +6,7 @@
 ![Иллюстрация к проекту] (https://github.com/chuzunsha/ai-assistent/blob/main/Screenshot_36.jpg?raw=true)
 (https://github.com/chuzunsha/ai-assistent/blob/main/Screenshot_36.jpg?raw=true)
 
-
+![Иллюстрация к проекту](https://github.com/chuzunsha/ai-assistent/blob/main/Screenshot_36.jpg?raw=true)
 
 ## Описание проекта
 

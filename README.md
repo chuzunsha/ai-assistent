@@ -3,7 +3,7 @@
 
 Ссылка на проект - @vivoz_musora_nnbot
 
-![Иллюстрация к проекту] [https://github.com/chuzunsha/ai-assistent/blob/main/Screenshot_36.jpg](https://github.com/chuzunsha/ai-assistent/blob/main/Screenshot_36.jpg?raw=true)
+![Иллюстрация к проекту] https://github.com/chuzunsha/ai-assistent/blob/main/Screenshot_36.jpg?raw=true
 
 
 ## Описание проекта
